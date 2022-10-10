@@ -1,6 +1,6 @@
 # ui_real_estate
 
-A new Flutter project.
+A flutter test ui which shows house available to buy.
 
 ## Getting Started
 
